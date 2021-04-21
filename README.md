@@ -1,6 +1,6 @@
 ## :wave: About Me
 
-My name is Samuel Cho and I am a Full Stack Web Developer with a passion for coding and striving to further develop my skillsets and knowledge of programming and software development. 
+My name is Samuel Cho and I am a full-stack web developer with a passion for coding and striving to further develop my skillsets and knowledge of programming and software development. 
 
 After graduating from UC Riverside with a bachelors in biology, I decided to attend the Full-Immersion Web Development Program at LearningFuze. At LearningFuze, I dedicated 10+ hours a day to learning technologies and practicing code, such as HTML, CSS, JavaScript, Node.js, React and more. I am able to apply these skills to create projects in a work-like/professional environment. I have learned JavaScript and the ability to learn new technologies efficiently and effectively. My passion for software development has continued to grow as I continue to learn everyday.
 
