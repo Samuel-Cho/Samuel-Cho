@@ -26,7 +26,7 @@ Source Code: https://github.com/Samuel-Cho/pokelogue
 
 #### Preview
 
-<img width="230" alt="Screen Shot 2021-03-04 at 3 15 31 PM" src="https://user-images.githubusercontent.com/76749207/110043757-d27de180-7cfc-11eb-9869-64335818f86e.png"> <img width="230" alt="Screen Shot 2021-03-04 at 3 15 45 PM" src="https://user-images.githubusercontent.com/76749207/110043761-d3af0e80-7cfc-11eb-806d-9f65d5c9133f.png"> <img width="230" alt="Screen Shot 2021-03-04 at 3 15 54 PM" src="https://user-images.githubusercontent.com/76749207/110043762-d447a500-7cfc-11eb-8ba5-74a8f6cf34b7.png"> <img width="230" alt="Screen Shot 2021-03-04 at 3 16 10 PM" src="https://user-images.githubusercontent.com/76749207/110043764-d4e03b80-7cfc-11eb-9fcc-71b8c8aaf0cf.png">
+<img width="220" alt="Screen Shot 2021-03-04 at 3 15 31 PM" src="https://user-images.githubusercontent.com/76749207/110043757-d27de180-7cfc-11eb-9869-64335818f86e.png"> <img width="220" alt="Screen Shot 2021-03-04 at 3 15 45 PM" src="https://user-images.githubusercontent.com/76749207/110043761-d3af0e80-7cfc-11eb-806d-9f65d5c9133f.png"> <img width="220" alt="Screen Shot 2021-03-04 at 3 15 54 PM" src="https://user-images.githubusercontent.com/76749207/110043762-d447a500-7cfc-11eb-8ba5-74a8f6cf34b7.png"> <img width="220" alt="Screen Shot 2021-03-04 at 3 16 10 PM" src="https://user-images.githubusercontent.com/76749207/110043764-d4e03b80-7cfc-11eb-9fcc-71b8c8aaf0cf.png">
 
 ### Teeter Taste
 
