@@ -1,14 +1,12 @@
-## About Me
+## :wave: About Me
 
-My name is Samuel Cho and I am a web developer with a passion for coding and striving to further develop my skillsets and knowledge of programming and software development.
+My name is Samuel Cho and I am a web developer with a passion for coding and striving to further develop my skillsets and knowledge of programming and software development. 
 
-After graduating from UC Riverside with a bachelors in biology, I have always been interested in coding after university, taken several community college courses, and continued to learn about programming from my network and online resources, I decided to make a career change and began attending the Full-Immersion Web Development Program at LearningFuze.
-
-At LearningFuze, I dedicated 10+ hours a day to learning technologies and practicing code, such as HTML, CSS, JavaScript, Node.js, React and more. I am able to apply these skills to create projects in a work-like/professional environment. I have learned JavaScript and the ability to learn new technologies efficiently and effectively. My passion for software development has continued to grow as I continue to learn everyday.
+After graduating from UC Riverside with a bachelors in biology, I decided to attend the Full-Immersion Web Development Program at LearningFuze. At LearningFuze, I dedicated 10+ hours a day to learning technologies and practicing code, such as HTML, CSS, JavaScript, Node.js, React and more. I am able to apply these skills to create projects in a work-like/professional environment. I have learned JavaScript and the ability to learn new technologies efficiently and effectively. My passion for software development has continued to grow as I continue to learn everyday.
 
 My biggest triumphs since becoming a developer is the ability to create solo web applications, from wireframing to deploying on a live demo application. My time and development during LearningFuze has taught me that I can code and create projects from the ground up. I am eager to continue to grow in my skillsets and continue to expand my knowledge in development.
 
-## Skills
+## :fountain_pen: Skills
 
 **Strong**: JavaScript (ES5/ES6), HTML5, CSS3, Flexbox, RESTful APIs (Ajax/Fetch)
 
@@ -16,7 +14,7 @@ My biggest triumphs since becoming a developer is the ability to create solo web
 
 **Tools**: Git, GitHub, VS Code, JSON, Babel, Figma, Chrome Dev Tools, Slack, Canva
 
-## Applications
+## :iphone: Applications
 
 ### Pokélogue
 
@@ -34,7 +32,7 @@ Live Demo: https://teeter-taste.herokuapp.com/
 
 Source Code: https://github.com/Samuel-Cho/teeter-taste
 
-## Contact Me
+## :link: Contact Me
 
 LinkedIn Profile: https://www.linkedin.com/in/samuel-cho1
 
