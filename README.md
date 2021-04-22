@@ -37,7 +37,7 @@ Source Code: https://github.com/Samuel-Cho/teeter-taste
 
 LinkedIn Profile: https://www.linkedin.com/in/samuel-cho1
 
-Resume: https://drive.google.com/file/d/1gT9ZhpQxpvWbrNV7coXoj7faPsdtcn_4/view?usp=sharing
+Resume: https://drive.google.com/file/d/1FNo5gbcqiiH3PVG6KLoU0yr5KRTZc7_s/view?usp=sharing
 
 <!--
 **Samuel-Cho/Samuel-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
