@@ -24,7 +24,8 @@ Source Code: https://github.com/Samuel-Cho/pokelogue
 
 #### Preview
 
-<img width="210" alt="Screen Shot 2021-03-04 at 3 15 31 PM" src="https://user-images.githubusercontent.com/76749207/110043757-d27de180-7cfc-11eb-9869-64335818f86e.png"> <img width="210" alt="Screen Shot 2021-03-04 at 3 15 45 PM" src="https://user-images.githubusercontent.com/76749207/110043761-d3af0e80-7cfc-11eb-806d-9f65d5c9133f.png"> <img width="210" alt="Screen Shot 2021-03-04 at 3 15 54 PM" src="https://user-images.githubusercontent.com/76749207/110043762-d447a500-7cfc-11eb-8ba5-74a8f6cf34b7.png"> <img width="210" alt="Screen Shot 2021-03-04 at 3 16 10 PM" src="https://user-images.githubusercontent.com/76749207/110043764-d4e03b80-7cfc-11eb-9fcc-71b8c8aaf0cf.png">
+<img width="210" alt="Screen Shot 2021-04-22 at 10 48 19 AM" src="https://user-images.githubusercontent.com/76749207/115763126-09659080-a359-11eb-95ca-c4891c4b5aa2.png"> <img width="210" alt="Screen Shot 2021-04-22 at 10 48 56 AM" src="https://user-images.githubusercontent.com/76749207/115763132-0b2f5400-a359-11eb-9d31-a68d8997087a.png"> <img width="210" alt="Screen Shot 2021-04-22 at 10 49 11 AM" src="https://user-images.githubusercontent.com/76749207/115763141-0cf91780-a359-11eb-93c5-16e4a863b8af.png"> <img width="210" alt="Screen Shot 2021-04-22 at 10 49 31 AM" src="https://user-images.githubusercontent.com/76749207/115763144-0e2a4480-a359-11eb-854a-5768d4f8d88a.png">
+
 
 ### Teeter Taste
 
