@@ -41,7 +41,7 @@ Source Code: https://github.com/Samuel-Cho/pokelogue
 
 LinkedIn Profile: https://www.linkedin.com/in/samuel-cho1
 
-Resume: https://drive.google.com/file/d/1FNo5gbcqiiH3PVG6KLoU0yr5KRTZc7_s/view?usp=sharing
+Resume: https://drive.google.com/file/d/1Bpw7v7DmJB5aSu_wtglUiFehJa306BKu/view
 
 <!--
 **Samuel-Cho/Samuel-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
